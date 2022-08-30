@@ -1,0 +1,70 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#0d1b2a;  
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: white;
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: white;  
+    padding: 20px;  
+}  
+label{  
+    color: black;  
+    font-size: 17px;  
+}    
+.input{  
+    width: 300px;  
+    height: 30px;  
+    /* border: none;   */
+    /* border-radius: 3px;   */
+    padding-left: 8px;  
+    color: black;
+      
+}  
+.submit{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;
+    background-color: #0d1b2a;  
+  
+  
+}  
+#registerhere{
+    color: black;
+    display: inline;
+    float: left;
+}
+#registerhere > a {
+    margin-left: 1rem;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: none;
+}
+
+span{  
+    color: white;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: grey;  
+} 
+.form_label{
+    color : black;
+}
