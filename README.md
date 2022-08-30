@@ -10,14 +10,14 @@ ii. CSS <br>
 iii. javaScript<br>
 
 ### <ins> backend 
-i. Node js  <br>
+i.<em>  Node js  <br>
 
 ### <ins> database
-i. Mongo DB <br>
+i. Mongo DB <br> </em>
 
 ### <ins> Library 
-login - bcrypt.js library used to hash and salt the password<br>
-database password is hashed along with some salt
+Login - bcrypt.js library used to hash and salt the password<br>
+Database password is hashed along with some salt
 
 ## Screenshots 
 
