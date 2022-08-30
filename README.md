@@ -4,6 +4,14 @@ Gericht is a web site that can hold the business of an restaurant. And can have 
 ## Motivation
 The web site functions as a marketing strategy to boost out the business across the world.
 # Technology used
+## Installation
+
+Install my-project with npm
+
+bash
+  npm install my-project
+  npm start
+  
 ### <ins>frontend 
 i. HTML <br>
 ii. CSS <br>
@@ -26,7 +34,7 @@ Database password is hashed along with some salt
 ![Screenshot (88)](https://user-images.githubusercontent.com/66829505/187323180-ed64052c-6bcd-4db5-80c9-83dce5ad188a.png)
 
 ### Login Screen
-![Screenshot (89)](https://user-images.githubusercontent.com/66829505/187323262-bded18ef-a8e6-4394-b48e-1f902a0f235d.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/66829505/187327028-7b2704c8-fb18-45e8-b3cf-f0f6b0ca44ad.png)
 
 ### Register Screeen
 ![Screenshot (93)](https://user-images.githubusercontent.com/66829505/187324344-310d24d8-21be-475d-adde-7f070b71aba8.png)
