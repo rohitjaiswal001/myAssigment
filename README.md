@@ -21,7 +21,7 @@ iii. javaScript<br>
 i.<em>  Node js  <br>
 
 ### <ins> database
-i. Mongo DB <br> </em>
+i. <em> Mongo DB <br> </em>
 
 ### <ins> Library 
 Login - bcrypt.js library used to hash and salt the password<br>
